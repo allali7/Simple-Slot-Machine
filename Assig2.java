@@ -1,8 +1,6 @@
 /*
  * Name: Aisha Lalli
- * Date: 3/16/2021
- * Course: CST338 - Java
- * Module 2: Casino
+ * Casino
  * Description: Class Assig2 has many static methods and main.
  *              Class ThreeStrings creates object for slot machine
  *              This program will create a slot machine where the user can bet 
